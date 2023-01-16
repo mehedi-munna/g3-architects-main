@@ -5,6 +5,8 @@
     font-family: 'Poppins', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+
+
 .section-container{
     background-color: rgba(255, 144, 14, 0.1);
 }
@@ -77,5 +79,51 @@ nav {
     margin: 10px auto;
 
 }
+.Features-container{
+width:100%;
+justify-content: center;
+}
+.middle-editor{
+    display: flex;
+    align-items: center;
+}
 
 
+.images-container{
+ 
+    
+    width: 100%;
+    max-width: 700px;
+    
+    margin-top: 65px ;
+    margin-left: 160px;
+    margin-right: 0;
+}
+.content-2{
+    width: 537px;
+    line-height: 55px;
+    font-weight:400;
+    font-size:12px;
+    line-height:16px;
+    text-align:left;
+    margin-left: 35px;
+    
+}
+.middle-container{
+    line-height:20px;
+    margin-bottom: 10px;
+}
+.middle-paragraph{
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 10px;
+}
+.Explore-more-2{
+    width:20%;
+    height: 50px;
+    background:#FF900E ;
+    border-radius: 5px;
+    border-style: none;
+    color: aliceblue;
+    margin-top: 20px;
+}
